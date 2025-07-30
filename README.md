@@ -1,4 +1,4 @@
-# 🌞 Dear Sun
+# 🌞 Love
 
 Um projetinho simples, feito com carinho, só pra dizer: **você é o meu sol** ☀️
 
@@ -26,4 +26,4 @@ Simples, mas cheio de intenção 💌
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/dear-sun.git
+git clone https://github.com/seu-usuario/Love.git
